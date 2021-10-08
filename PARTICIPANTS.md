@@ -1,3 +1,3 @@
-# Append your name & email in the list
+# Append your name & github account in the list
 
-- Name [email](email)
+- Rahul Pathak [rahulpathak-github](https://github.com/rahulpathak-github)
