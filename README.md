@@ -2,7 +2,7 @@
 
 All contributors are requested to add their Name and GitHub handle (with the profile link) in [PARTICIPANTS.md](https://github.com/Synergise-IIT-Bhubaneswar/synergise-init/blob/master/PARTICIPANTS.md).
 
-If you are not very familiar with the GitHub workflow, head over to [CONTRIBUTING.md]().
+If you are not very familiar with the GitHub workflow, head over to [CONTRIBUTING.md](https://github.com/Synergise-IIT-Bhubaneswar/synergise-init/blob/master/CONTRIBUTING.md).
 
 **IMPORTANT**: *Only the points that you earn after creating a Pull Request in this repository will be considered.*
 -
