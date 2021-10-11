@@ -5,3 +5,4 @@
 - Atul Goyal [ag278](https://github.com/ag278)
 - Omkar Sawant [OmieSawie](https://github.com/OmieSawie)
 - Sai Giri Nandini Udathu [usgn94](https://github.com/usgn94)
+- Nagulapally Anudeep [Nagulapally-Anudeep](https://github.com/Nagulapally-Anudeep)
