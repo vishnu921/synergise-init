@@ -7,7 +7,7 @@ To add your details in the list, follow the following steps:
 2. Add your name, github handle and github profile link at the end of the list
 ![image](https://github.com/Synergise-IIT-Bhubaneswar/synergise-init/blob/master/assets/st2.jpg)
 
-3. Add any comments if you want, create a NEW branch and click on "Pospose Changes"
+3. Add any comments if you want, create a NEW branch and click on "Propose Changes"
 ![image](https://github.com/Synergise-IIT-Bhubaneswar/synergise-init/blob/master/assets/st3.jpg)
 
 4. Click on "Create pull request"
