@@ -10,4 +10,5 @@
 - Ayush Soni [AyushhS](https://github.com/AyushhS)
 - Athul Jyothis [jyothisable](https://github.com/jyothisable)
 - P.Kartikeya [kartikeya-123](https://github.com/kartikeya-123)
+- Rohan Reddy [imTheDevil](https://github.com/imTheDevil)
 - Shashwat Singh [Shashwat545](https://github.com/shashwat545)
