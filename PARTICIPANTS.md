@@ -12,3 +12,4 @@
 - P.Kartikeya [kartikeya-123](https://github.com/kartikeya-123)
 - Rohan Reddy [imTheDevil](https://github.com/imTheDevil)
 - Shashwat Singh [Shashwat545](https://github.com/shashwat545)
+- Kaushik Dey [Kaushikdey647](https://github.com/Kaushikdey647)
