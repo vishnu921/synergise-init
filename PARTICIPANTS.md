@@ -14,3 +14,4 @@
 - Shashwat Singh [Shashwat545](https://github.com/shashwat545)
 - Kaushik Dey [Kaushikdey647](https://github.com/Kaushikdey647)
 - Nagsen Waghmare [Nagsenwaghmare](https://github.com/Nagsenwaghmare)
+- Akshat Gupta [AkshatGupta468](https://github.com/AkshatGupta468)
