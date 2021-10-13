@@ -16,4 +16,5 @@
 - Nagsen Waghmare [Nagsenwaghmare](https://github.com/Nagsenwaghmare)
 - Akshat Gupta [AkshatGupta468](https://github.com/AkshatGupta468)
 - Dummy Nmae [dummy_handle](https://github.com/rahulpathak-github)
+- Akshat Anand [akshatanand186](https://github.com/akshatanand186)
 - Ritik Gupta [ritik3131](https://github.com/ritik3131)
