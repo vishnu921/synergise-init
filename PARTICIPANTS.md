@@ -20,3 +20,4 @@
 - Ritik Gupta [ritik3131](https://github.com/ritik3131)
 - Amit Kumar Pandit [amitpandit15](https://github.com/amitpandit15)
 - Amrit Dash [ad451](https://github.com/ad451)
+- Aditya Balakrishnan [adihex](https://github.com/adihex)
