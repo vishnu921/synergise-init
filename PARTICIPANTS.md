@@ -21,3 +21,4 @@
 - Amit Kumar Pandit [amitpandit15](https://github.com/amitpandit15)
 - Amrit Dash [ad451](https://github.com/ad451)
 - Aditya Balakrishnan [adihex](https://github.com/adihex)
+- Pranay Borgohain [PranayB003](https://github.com/PranayB003)
